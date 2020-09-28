@@ -1,0 +1,4 @@
+{
+    "db_type": "postgres",
+    "db_con_string": "user=postgres dbname=postgres password=example host=127.0.0.1 port=1234 sslmode=disable"
+}
